@@ -25,6 +25,7 @@
     "gopd": "^1.2.0",
     "has-symbols": "^1.1.0",
     "merge-descriptors": "^1.0.3",
+    "mern-thinkboard": "file:..",
     "mongoose": "^8.14.3",
     "object-inspect": "^1.13.4",
     "picomatch": "^2.3.1",
